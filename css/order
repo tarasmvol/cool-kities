@@ -1,0 +1,5 @@
+def order(a):
+    if len(a) != len(set(a)):
+        exit
+    for i in range(len(a-1)):
+        if t
